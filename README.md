@@ -42,8 +42,6 @@ To allow this script to access Gmail securely:
 4. Generate an app password for "Mail".
 5. Store this securely; it will be required by the script (e.g. in a `.env` file).
 
-![Gmail App Password Setup](https://i.imgur.com/example.png)
-
 ---
 
 ## ⚙️ MCP Client Configuration (Claude Desktop)
@@ -75,9 +73,6 @@ To register the email server with Claude Desktop:
 ```
 
 > Adjust paths as needed based on your local setup.
-
-![Claude Desktop Config](docs/images/claude-config.png)
-
 ---
 
 ## 📦 Install Dependencies
